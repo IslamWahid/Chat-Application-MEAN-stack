@@ -22,18 +22,18 @@ Chat Application MEAN stack
   go to "chatServer" Directory and open your terminal and run:
 
   $ npm install
-  //to install the dependencies
+  to install the dependencies
 
   $ npm start
-  //to start the server
+  to start the server
 
   --- to run the clientServer: ---
   go to "chatClient" Directory and open your terminal and run:
 
   $ npm install
-  //to install the dependencies
+  to install the dependencies
 
   $ npm start
-  //to start the chatClient
+  to start the chatClient
 
   open in your browser:  http://localhost:4200/
