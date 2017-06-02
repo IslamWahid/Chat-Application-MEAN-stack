@@ -15,24 +15,22 @@ Chat Application MEAN stack
   instructions:
   =============
 
-  -first make sure that the mongod service is running
-  ```sh
-sudo service mongod start
+  ### first make sure that the mongod service is running
+```sh
+  sudo service mongod start
 ```
-  --- to run the server: ---
+  ### to run the server:
   go to "chatServer" Directory and open your terminal and run:
 
-    ```sh
+```sh
 npm install
-
 npm start
 ```
-  --- to run the clientServer: ---
+  ### to run the clientServer:
   go to "chatClient" Directory and open your terminal and run:
 
-   ```sh
+```sh
 npm install
-
 npm start
 ```
 
